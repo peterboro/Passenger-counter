@@ -13,5 +13,12 @@ To use the passenger counter app, simply click on the "Increment" button each ti
 ## Contributing
 If you would like to contribute to the project, you can do so by forking the repository and making your changes. Once you have made your changes, create a pull request and I will review your changes.
 
+## Authors
+
+👤 **Peter Boro**
+
+- - GitHub: [@peterboro](https://github.com/peterboro)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
